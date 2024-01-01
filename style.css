@@ -69,7 +69,7 @@
 }
 
 #hero {
-    background-image: url("(2\).jpg");
+    background-image: url("bg.jpg");
     height: 90vh;
     width: 964;
     background-size: cover;
@@ -90,7 +90,7 @@
 }
 
 #hero button {
-    /* background-image: url("../Background/Free-Leaf-clipart-png.png"); */
+    /* background-image: url("Free-Leaf-clipart-png.png"); */
     /* height: 15px; */
     background-color: rgb(7, 250, 169);
     color: white;
@@ -265,7 +265,7 @@ body {
     justify-items: center;
     align-items: center;
     text-align: center;
-    background-image: url("../Background/photo-1581985673473-0784a7a44e39.jpg");
+    background-image: url("photo-1581985673473-0784a7a44e39.jpg");
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -317,7 +317,7 @@ button.normal {
     justify-items: center;
     align-items: flex-start;
     text-align: center;
-    background-image: url("../Logo/logo2.png");
+    background-image: url("logo2.png");
     min-width: 580px;
     height: 50vh;
     background-size: cover;
@@ -326,7 +326,7 @@ button.normal {
 }
 
 #sm-banner .banner-box2 {
-    background-image: url("../banner/background.jpg");
+    background-image: url("background.jpg");
 }
 
 #sm-banner h4 {
@@ -380,7 +380,7 @@ button.white {
     justify-items: center;
     align-items: flex-start;
     text-align: center;
-    background-image: url("../banner/images\ \(1\).jpg");
+    background-image: url("images (1).jpg");
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -404,11 +404,11 @@ button.white {
 }
 
 #banner-3 .banner-box-2 {
-    background-image: url("../banner/images.jpg");
+    background-image: url("images.jpg");
 }
 
 #banner-3 .banner-box3 {
-    background-image: url("../Pots/Round planter/16 Inches Deluxe Planter/16-inches-planter-deluxe-500x500\ \(1\).jpg");
+    background-image: url("1.jpg");
 }
 
 #newsletter {
@@ -416,7 +416,7 @@ button.white {
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url("../banner/0298.jpg_wh860.jpg");
+    background-image: url("0298.jpg_wh860.jpg");
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #04224c;
@@ -530,7 +530,7 @@ footer .copyright {
 /* shop page CSS */
 
 #page-header {
-    background-image: url("../Blog/74fa4ba9685e33632159b1a1b0a853e3.jpg");
+    background-image: url("74fa4ba9685e33632159b1a1b0a853e3.jpg");
     width: 964.8;
     height: 40vh;
     background-size: cover;
@@ -630,7 +630,7 @@ footer .copyright {
 /* Blog Css */
 
 #page-header.blog-header {
-    background-image: url('../Blog/istockphoto-1201392512-612x612.jpg');
+    background-image: url('istockphoto-1201392512-612x612.jpg');
 }
 
 #blog {
@@ -700,7 +700,7 @@ footer .copyright {
 /* About CSS */
 
 #page-header.about-header {
-    background-image: url('../Blog/images\ \(2\).jpg');
+    background-image: url('images (2).jpg');
 }
 
 #about-head {
