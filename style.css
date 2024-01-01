@@ -69,7 +69,7 @@
 }
 
 #hero {
-    background-image: url("bg.jpg");
+    background-image: url('bg.jpg);
     height: 90vh;
     width: 964;
     background-size: cover;
